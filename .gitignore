@@ -24,3 +24,5 @@ dist/
 # Cache files
 .cache/
 .DS_Store 
+# Local Netlify folder
+.netlify
