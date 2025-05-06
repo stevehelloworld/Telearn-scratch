@@ -1,0 +1,26 @@
+# Node modules
+node_modules/
+
+# Build files
+build/
+dist/
+
+# Media files
+*.png
+*.jpg
+*.gif
+*.svg
+*.wav
+*.mp3
+*.mp4
+
+# IDE files
+.idea/
+.vscode/
+
+# Log files
+*.log
+
+# Cache files
+.cache/
+.DS_Store 
